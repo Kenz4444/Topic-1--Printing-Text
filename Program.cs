@@ -17,6 +17,7 @@ namespace Topic_1__Printing_Text
             Console.ReadLine();
             Console.BackgroundColor = ConsoleColor.Green;
             Console.Clear();
+            Console.WriteLine();
 
             Console.ResetColor();
 
